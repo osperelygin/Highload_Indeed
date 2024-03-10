@@ -39,15 +39,15 @@ Indeed — всемирный сервис по поиску работы.
 ## 2. Расчет нагрузки <a name="2"></a>
 
 ### Продуктовые метрики
-* DAU: 21M
-* MAU: 350M
-* Количество компаний: 14.6K [^1]
-* Количество доступных вакансий: 533K [^1]
-* Количество резюме: 245M [^1]
-* Добавление новых вакансий за месяц: 9.2М
-* Создание/обновление резюме в месяц: 8М
-* Откликов на одну вакансию: 250
-* Среднее время на сайте: 00:06:32
+* DAU: 21M [^1], [^2]  
+* MAU: 350M [^1], [^2]
+* Среднее время на сайте: 00:06:32 [^1], [^2] 
+* Количество резюме: 245M [^3]
+* Количество доступных вакансий: 533K [^3]
+* Количество компаний: 14.6K [^4]
+* Добавление новых вакансий за месяц: 9.2М [^5]
+* Создание/обновление резюме в месяц: 8М [^6] 
+* Откликов на одну вакансию: 250 [^7]
 
 ### Технические метрики
 
@@ -150,16 +150,17 @@ Geo-based DNS разумно использовать для распредел�
 
 ## Список использованных источников: <a name="sources"></a>
 
-[^1]: [About Indeed](https://www.indeed.com/about/)
+[^1]: [SimilarWeb indeed.com](https://www.similarweb.com/website/indeed.com/)
+[^2]: [HypeStat indeed.com](https://hypestat.com/info/indeed.com)
+[^3]: [About Indeed](https://www.indeed.com/about/)
+[^4]: [Indeed Statistics and Revenue 2023](https://homejobshub.com/indeed-revenue-and-usage-statistics/#Indeed-Company-Information)
+[^5]: [Free vs Sponsored Jobs on Indeed](https://www.indeed.com/hire/resources/howtohub/free-vs-sponsored-jobs-on-indeed#:~:text=Since%209.2%20million%20jobs%20are,postings%20can%20lose%20visibility%20quickly.)
+[^6]: [How to Search for Candidates on Indeed](https://www.indeed.com/hire/resources/howtohub/how-to-consistently-attract-and-filter-quality-applicants#:~:text=New%20talent%20added%20every%20day,alerts%20for%20new%20resume%20matches.)
+[^7]: [what does many applicants mean on Indeed](https://www.iapply.ai/blogs/what-does-many-applicants-mean-on-indeed.html#:~:text=How%20Many%20Applications%20Does%20a,likely%20have%20an%20interview%20scheduled.) 
 
-* https://hypestat.com/info/indeed.com
-* https://homejobshub.com/indeed-revenue-and-usage-statistics/
-* https://www.similarweb.com/website/indeed.com/
-* https://www.indeed.com/hire/resources/howtohub/free-vs-sponsored-jobs-on-indeed#:~:text=Since%209.2%20million%20jobs%20are,postings%20can%20lose%20visibility%20quickly.
-* https://www.indeed.com/hire/resources/howtohub/how-to-consistently-attract-and-filter-quality-applicants#:~:text=New%20talent%20added%20every%20day,alerts%20for%20new%20resume%20matches.
-* https://www.iapply.ai/blogs/what-does-many-applicants-mean-on-indeed.html#:~:text=How%20Many%20Applications%20Does%20a,likely%20have%20an%20interview%20scheduled.
-* https://kids.britannica.com/students/assembly/view/166536
+<!-- * https://kids.britannica.com/students/assembly/view/166536
 * https://www.indeed.com/lead/timing-matters-in-the-job-search
 * https://www.indeed.com/lead/indeed-delivers-65-percent-online-hires
 * https://github.com/hiring-lab/job_postings_tracker?tab=readme-ov-file
 * https://github.com/hiring-lab/indeed-wage-tracker
+* https://hh.ru/article/31506 -->
