@@ -159,7 +159,7 @@ Geo-based DNS разумно использовать для распредел�
 [^5]: [Free vs Sponsored Jobs on Indeed](https://www.indeed.com/hire/resources/howtohub/free-vs-sponsored-jobs-on-indeed#:~:text=Since%209.2%20million%20jobs%20are,postings%20can%20lose%20visibility%20quickly.)
 [^6]: [How to Search for Candidates on Indeed](https://www.indeed.com/hire/resources/howtohub/how-to-consistently-attract-and-filter-quality-applicants#:~:text=New%20talent%20added%20every%20day,alerts%20for%20new%20resume%20matches.)
 [^7]: [Думать, как соискатель: как ищут работу пользователи hh.ru](https://hh.ru/article/31506)
-[^8]: [About us. Main Page]((https://investor.hh.ru/))
+[^8]: [About us. Main Page](https://investor.hh.ru/)
 [^9]: [Время — деньги: как разбор откликов позволяет экономить время и ресурсы рекрутера](https://hh.ru/article/29100)
 
 
